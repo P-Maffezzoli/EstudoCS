@@ -1,0 +1,7 @@
+C:\Users\pietro.maffezzoli\source\repos\ProjetoTeste\ProjetoTeste\bin\Debug\ProjetoTeste.exe.config
+C:\Users\pietro.maffezzoli\source\repos\ProjetoTeste\ProjetoTeste\bin\Debug\ProjetoTeste.exe
+C:\Users\pietro.maffezzoli\source\repos\ProjetoTeste\ProjetoTeste\bin\Debug\ProjetoTeste.pdb
+C:\Users\pietro.maffezzoli\source\repos\ProjetoTeste\ProjetoTeste\obj\Debug\ProjetoTeste.csproj.AssemblyReference.cache
+C:\Users\pietro.maffezzoli\source\repos\ProjetoTeste\ProjetoTeste\obj\Debug\ProjetoTeste.csproj.CoreCompileInputs.cache
+C:\Users\pietro.maffezzoli\source\repos\ProjetoTeste\ProjetoTeste\obj\Debug\ProjetoTeste.exe
+C:\Users\pietro.maffezzoli\source\repos\ProjetoTeste\ProjetoTeste\obj\Debug\ProjetoTeste.pdb
