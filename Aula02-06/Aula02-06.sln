@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "calculadora", "Aula02-06\calculadora.csproj", "{088EC67C-6C65-45F4-B2A1-A37AD276D8EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "calendario", "calendario\calendario.csproj", "{1C6EA5D0-AFFC-457E-9499-50B2D26060E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{088EC67C-6C65-45F4-B2A1-A37AD276D8EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{088EC67C-6C65-45F4-B2A1-A37AD276D8EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{088EC67C-6C65-45F4-B2A1-A37AD276D8EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{088EC67C-6C65-45F4-B2A1-A37AD276D8EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C6EA5D0-AFFC-457E-9499-50B2D26060E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C6EA5D0-AFFC-457E-9499-50B2D26060E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C6EA5D0-AFFC-457E-9499-50B2D26060E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C6EA5D0-AFFC-457E-9499-50B2D26060E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {07E53141-4A2F-4F14-81DF-4A1E51566806}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+C:\Users\pietro.maffezzoli\source\repos\Aula02-06\calendario\bin\Debug\calendario.exe.config
+C:\Users\pietro.maffezzoli\source\repos\Aula02-06\calendario\bin\Debug\calendario.exe
+C:\Users\pietro.maffezzoli\source\repos\Aula02-06\calendario\bin\Debug\calendario.pdb
+C:\Users\pietro.maffezzoli\source\repos\Aula02-06\calendario\obj\Debug\calendario.csproj.AssemblyReference.cache
+C:\Users\pietro.maffezzoli\source\repos\Aula02-06\calendario\obj\Debug\calendario.csproj.CoreCompileInputs.cache
+C:\Users\pietro.maffezzoli\source\repos\Aula02-06\calendario\obj\Debug\calendario.exe
+C:\Users\pietro.maffezzoli\source\repos\Aula02-06\calendario\obj\Debug\calendario.pdb
