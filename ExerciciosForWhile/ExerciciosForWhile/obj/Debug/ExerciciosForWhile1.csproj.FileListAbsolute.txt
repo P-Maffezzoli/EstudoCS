@@ -1,0 +1,7 @@
+C:\Users\pietro.maffezzoli\source\repos\ExerciciosForWhile\ExerciciosForWhile\obj\Debug\ExerciciosForWhile1.csproj.AssemblyReference.cache
+C:\Users\pietro.maffezzoli\source\repos\ExerciciosForWhile\ExerciciosForWhile\obj\Debug\ExerciciosForWhile1.csproj.CoreCompileInputs.cache
+C:\Users\pietro.maffezzoli\source\repos\ExerciciosForWhile\ExerciciosForWhile\bin\Debug\ExerciciosForWhile.exe.config
+C:\Users\pietro.maffezzoli\source\repos\ExerciciosForWhile\ExerciciosForWhile\bin\Debug\ExerciciosForWhile.exe
+C:\Users\pietro.maffezzoli\source\repos\ExerciciosForWhile\ExerciciosForWhile\bin\Debug\ExerciciosForWhile.pdb
+C:\Users\pietro.maffezzoli\source\repos\ExerciciosForWhile\ExerciciosForWhile\obj\Debug\ExerciciosForWhile.exe
+C:\Users\pietro.maffezzoli\source\repos\ExerciciosForWhile\ExerciciosForWhile\obj\Debug\ExerciciosForWhile.pdb
