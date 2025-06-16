@@ -1,0 +1,7 @@
+C:\Users\pietro.maffezzoli\OneDrive - SENAC-SC\Arquivos DSI\C#\ExercicioMetodos\ExerMetodo5\bin\Debug\ExerMetodo5.exe.config
+C:\Users\pietro.maffezzoli\OneDrive - SENAC-SC\Arquivos DSI\C#\ExercicioMetodos\ExerMetodo5\bin\Debug\ExerMetodo5.exe
+C:\Users\pietro.maffezzoli\OneDrive - SENAC-SC\Arquivos DSI\C#\ExercicioMetodos\ExerMetodo5\bin\Debug\ExerMetodo5.pdb
+C:\Users\pietro.maffezzoli\OneDrive - SENAC-SC\Arquivos DSI\C#\ExercicioMetodos\ExerMetodo5\obj\Debug\ExerMetodo5.csproj.AssemblyReference.cache
+C:\Users\pietro.maffezzoli\OneDrive - SENAC-SC\Arquivos DSI\C#\ExercicioMetodos\ExerMetodo5\obj\Debug\ExerMetodo5.csproj.CoreCompileInputs.cache
+C:\Users\pietro.maffezzoli\OneDrive - SENAC-SC\Arquivos DSI\C#\ExercicioMetodos\ExerMetodo5\obj\Debug\ExerMetodo5.exe
+C:\Users\pietro.maffezzoli\OneDrive - SENAC-SC\Arquivos DSI\C#\ExercicioMetodos\ExerMetodo5\obj\Debug\ExerMetodo5.pdb

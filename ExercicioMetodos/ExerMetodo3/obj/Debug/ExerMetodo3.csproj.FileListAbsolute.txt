@@ -1,0 +1,7 @@
+C:\Users\pietro.maffezzoli\OneDrive - SENAC-SC\Arquivos DSI\C#\ExercicioMetodos\ExerMetodo3\bin\Debug\ExerMetodo3.exe.config
+C:\Users\pietro.maffezzoli\OneDrive - SENAC-SC\Arquivos DSI\C#\ExercicioMetodos\ExerMetodo3\bin\Debug\ExerMetodo3.exe
+C:\Users\pietro.maffezzoli\OneDrive - SENAC-SC\Arquivos DSI\C#\ExercicioMetodos\ExerMetodo3\bin\Debug\ExerMetodo3.pdb
+C:\Users\pietro.maffezzoli\OneDrive - SENAC-SC\Arquivos DSI\C#\ExercicioMetodos\ExerMetodo3\obj\Debug\ExerMetodo3.csproj.AssemblyReference.cache
+C:\Users\pietro.maffezzoli\OneDrive - SENAC-SC\Arquivos DSI\C#\ExercicioMetodos\ExerMetodo3\obj\Debug\ExerMetodo3.csproj.CoreCompileInputs.cache
+C:\Users\pietro.maffezzoli\OneDrive - SENAC-SC\Arquivos DSI\C#\ExercicioMetodos\ExerMetodo3\obj\Debug\ExerMetodo3.exe
+C:\Users\pietro.maffezzoli\OneDrive - SENAC-SC\Arquivos DSI\C#\ExercicioMetodos\ExerMetodo3\obj\Debug\ExerMetodo3.pdb

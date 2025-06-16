@@ -1,0 +1,7 @@
+C:\Users\pietro.maffezzoli\source\repos\ExercicioMetodos\ExerMetodo2\bin\Debug\ExerMetodo2.exe.config
+C:\Users\pietro.maffezzoli\source\repos\ExercicioMetodos\ExerMetodo2\bin\Debug\ExerMetodo2.exe
+C:\Users\pietro.maffezzoli\source\repos\ExercicioMetodos\ExerMetodo2\bin\Debug\ExerMetodo2.pdb
+C:\Users\pietro.maffezzoli\source\repos\ExercicioMetodos\ExerMetodo2\obj\Debug\ExerMetodo2.csproj.AssemblyReference.cache
+C:\Users\pietro.maffezzoli\source\repos\ExercicioMetodos\ExerMetodo2\obj\Debug\ExerMetodo2.csproj.CoreCompileInputs.cache
+C:\Users\pietro.maffezzoli\source\repos\ExercicioMetodos\ExerMetodo2\obj\Debug\ExerMetodo2.exe
+C:\Users\pietro.maffezzoli\source\repos\ExercicioMetodos\ExerMetodo2\obj\Debug\ExerMetodo2.pdb
